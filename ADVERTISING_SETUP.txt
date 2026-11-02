@@ -1,0 +1,7 @@
+Lloret de Mar Holiday Companion V2 - Universal Advertising Manager V1 support
+
+Upload all files and folders to the existing Lloret de Mar GitHub repository.
+Use Manager V1 to export adverts.json and associated image files.
+Replace advertising/adverts.json and upload images to advertising/images/.
+The example advert links to https://elevor360d.co.uk/.
+Test all existing app features after uploading.

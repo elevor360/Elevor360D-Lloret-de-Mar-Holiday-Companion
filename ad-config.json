@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "lloret-de-mar-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}
