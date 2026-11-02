@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Lloret de Mar, Costa Brava",
+  "updated": "2026-11-01",
+  "intro": "Explore Lloret de Mar on the Costa Brava: sandy beaches, scenic coves, coastal paths, gardens, family activities and day trips to Tossa de Mar, Girona and Barcelona. Save your holiday plans, favourite visits and photos on this device.",
+  "areas": [
+    {
+      "name": "Lloret Town Centre",
+      "description": "Explore shopping streets, cafés and the parish church near the seafront."
+    },
+    {
+      "name": "Lloret Beach",
+      "description": "Main resort beachfront with promenade, restaurants and seasonal watersports."
+    },
+    {
+      "name": "Fenals",
+      "description": "Quieter beach district west of the centre, close to gardens and coastal walks."
+    },
+    {
+      "name": "Santa Cristina",
+      "description": "Scenic beach area with wooded slopes and nearby chapel."
+    },
+    {
+      "name": "Cala Canyelles",
+      "description": "Sheltered cove east of town with marina facilities; check seasonal access."
+    },
+    {
+      "name": "Tossa de Mar",
+      "description": "Nearby historic seaside town, ideal for a day trip."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Santa Clotilde Gardens",
+      "description": "Clifftop landscaped gardens with sea views; check opening times and tickets."
+    },
+    {
+      "name": "Church of Sant Romà",
+      "description": "Distinctive historic parish church in the town centre."
+    },
+    {
+      "name": "Castell d’en Plaja",
+      "description": "Photogenic private landmark at the eastern end of Lloret Beach; admire from public paths."
+    },
+    {
+      "name": "Camí de Ronda",
+      "description": "Coastal walking paths linking beaches and viewpoints; some sections have steps."
+    },
+    {
+      "name": "Maritime Museum (Can Garriga)",
+      "description": "Local maritime history in a seafront heritage building; check visitor details."
+    },
+    {
+      "name": "Modernist Cemetery",
+      "description": "Historic cemetery known for modernist funerary architecture."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Girona–Costa Brava Airport",
+      "description": "Nearby airport; check seasonal flights and transfers."
+    },
+    {
+      "name": "Barcelona–El Prat Airport",
+      "description": "Larger international airport; check onward bus and rail connections."
+    },
+    {
+      "name": "Lloret bus station",
+      "description": "Local and regional buses; check current schedules and routes."
+    },
+    {
+      "name": "Blanes railway station",
+      "description": "Rail access via Blanes, with onward connections to Lloret by bus."
+    },
+    {
+      "name": "Local taxis",
+      "description": "Use licensed taxis and confirm fares for longer journeys."
+    },
+    {
+      "name": "Walking",
+      "description": "Central areas are walkable; coastal paths and coves may involve steep steps."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check card and cash withdrawal charges."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK passport and entry requirements before departure."
+    },
+    {
+      "name": "Languages",
+      "description": "Catalan and Spanish; English is often spoken in tourist areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow flags and lifeguard advice, especially when sea conditions change."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is normally one hour ahead of the UK."
+    },
+    {
+      "name": "Seasonal services",
+      "description": "Water parks, boat trips and some restaurants may have seasonal hours."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Lloret de Mar tourism (official)",
+      "url": "https://lloretdemar.org/en/"
+    },
+    {
+      "name": "Costa Brava tourism (official)",
+      "url": "https://costabrava.org/en/"
+    },
+    {
+      "name": "Girona Airport (Aena)",
+      "url": "https://www.aena.es/en/girona-costa-brava.html"
+    },
+    {
+      "name": "Barcelona Airport (Aena)",
+      "url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Lloret de Mar local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Platja de Lloret",
+      "description": "Main long sandy beach, central and lively in peak season."
+    },
+    {
+      "name": "Platja de Fenals",
+      "description": "Wide beach with a calmer setting and nearby facilities."
+    },
+    {
+      "name": "Platja de Santa Cristina",
+      "description": "Sheltered sandy beach surrounded by wooded slopes."
+    },
+    {
+      "name": "Cala Boadella",
+      "description": "Scenic smaller cove reached by paths; check accessibility."
+    },
+    {
+      "name": "Cala Canyelles",
+      "description": "Pretty cove east of town, with seasonal services."
+    },
+    {
+      "name": "Sa Caleta",
+      "description": "Small cove by the coastal path at the eastern end of Lloret Beach."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Town centre shopping",
+      "description": "Explore shops and local businesses along the pedestrian streets."
+    },
+    {
+      "name": "Municipal market",
+      "description": "Check the current opening hours for fresh food and local produce."
+    },
+    {
+      "name": "Weekly street market",
+      "description": "Ask local tourist information for the current day and location."
+    },
+    {
+      "name": "Supermarkets and essentials",
+      "description": "Find groceries and beach supplies in town; Sunday hours vary."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Town centre nightlife",
+      "description": "Bars and late-night venues concentrated in central streets; check age rules and opening hours."
+    },
+    {
+      "name": "Seafront terraces",
+      "description": "Enjoy cafés and evening drinks along the promenade."
+    },
+    {
+      "name": "Live music and events",
+      "description": "Look for seasonal concerts and local cultural events."
+    },
+    {
+      "name": "Fenals evenings",
+      "description": "Relaxed restaurants and bars near Fenals Beach."
+    }
+  ],
+  "family": [
+    {
+      "name": "Water World",
+      "description": "Water park near Lloret; seasonal opening, ticket prices and height restrictions apply."
+    },
+    {
+      "name": "Fenals Beach",
+      "description": "Family beach outing; always follow flags and lifeguard instructions."
+    },
+    {
+      "name": "Santa Clotilde Gardens",
+      "description": "Walk through landscaped gardens with coastal views."
+    },
+    {
+      "name": "Maritime Museum",
+      "description": "Learn about the town’s seafaring past."
+    },
+    {
+      "name": "Boat excursions",
+      "description": "Check seasonal coastal cruises, weather and return times."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Old Town restaurants",
+      "description": "Browse Catalan and Spanish restaurants around the centre."
+    },
+    {
+      "name": "Seafront dining",
+      "description": "Beachfront cafés and restaurants with Mediterranean views."
+    },
+    {
+      "name": "Seafood and rice dishes",
+      "description": "Look for local fish dishes and Catalan rice specialities."
+    },
+    {
+      "name": "Fenals restaurants",
+      "description": "Dining options around the quieter Fenals district."
+    },
+    {
+      "name": "Family-friendly meals",
+      "description": "Check menus, dietary requirements and seasonal opening hours."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Tossa de Mar",
+      "description": "Explore the walled old town, beaches and coastal scenery; check transport connections."
+    },
+    {
+      "name": "Blanes",
+      "description": "Visit beaches and botanical gardens in the neighbouring coastal town."
+    },
+    {
+      "name": "Girona",
+      "description": "Explore medieval lanes, cathedral surroundings and historic city walls."
+    },
+    {
+      "name": "Barcelona",
+      "description": "Plan a full-day city visit; check bus or rail connections and return times."
+    },
+    {
+      "name": "Sant Feliu de Guíxols",
+      "description": "Coastal town with a promenade and maritime heritage."
+    },
+    {
+      "name": "Marimurtra Botanical Garden",
+      "description": "Botanical garden in Blanes with sea views; check ticketing and access."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Lloret Beach",
+      "description": "Platja de Lloret, Lloret de Mar, Spain"
+    },
+    {
+      "name": "Fenals Beach",
+      "description": "Platja de Fenals, Lloret de Mar, Spain"
+    },
+    {
+      "name": "Santa Clotilde Gardens",
+      "description": "Jardins de Santa Clotilde, Lloret de Mar, Spain"
+    },
+    {
+      "name": "Church of Sant Romà",
+      "description": "Església de Sant Romà, Lloret de Mar, Spain"
+    },
+    {
+      "name": "Water World",
+      "description": "Water World Lloret de Mar, Spain"
+    },
+    {
+      "name": "Sa Caleta",
+      "description": "Sa Caleta, Lloret de Mar, Spain"
+    },
+    {
+      "name": "Lloret bus station",
+      "description": "Estació d’autobusos de Lloret de Mar, Spain"
+    },
+    {
+      "name": "Santa Cristina Beach",
+      "description": "Platja de Santa Cristina, Lloret de Mar, Spain"
+    }
+  ]
+}
